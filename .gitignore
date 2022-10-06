@@ -1,1 +1,4 @@
-run.sh
+clean_nohup.sh
+nohup.out
+run_update_prices_github.sh
+
