@@ -1,3 +1,3 @@
-File name format: Year-Month-Day-Hour.html
+File name format: Year/Month/Day/Hour.html
 
-Sample: https://9corn.com/2022/2022-10-06-00h.html
+Sample: https://9corn.com/2022/10/07/08h.html
